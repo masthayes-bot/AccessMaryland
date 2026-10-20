@@ -1,0 +1,4 @@
+Name: Mason
+Functional: The system shall allow users to log in with their university credentials and access only resources permitted by their role.
+Nonfunctional: The system shall allow authenticate users within 3 seconds under normal load.
+Proposed IAM feature: Multi-factor authentication for faculty and staff accounts.
